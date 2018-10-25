@@ -12,19 +12,24 @@ We are a well-funded, early stage fintech startup looking for an entrepreneurial
 
 ***Software Engineer***
 
-- Understanding of object-oriented design with SOLID principles, unit testing and integration testing, and API design. Also important to have some knowledge of relational databases (we are currently using PostgreSQL) and source code version control (we use Github).
+- Understanding of object-oriented design with SOLID principles, unit testing and integration testing, and API design. Also important to have some knowledge of relational databases and source code version control.
 - Ability to communicate ideas and work together effectively.
 - In addition to writing code and making technology decisions, you will learn about finance and apply your engineering perspective to solve business problems.
 - You believe in lean development with short iterations and constant shipping, and will be able to help us create this culture for our development processes as well as our commercial operations.
 
+***Our stack***
+- Language and framework web: Ruby on Rails
+- Database: PostgreSql/Redis
+- Infra: Heroku
+- Version control: Github
+
 ***Job Specs***
 
-- Opportunity to develop your skills and learn new ones with the support of a formidable team in a safe environment.
 - One of the first employees in a promising fintech startup with a highly qualified team (trained at Harvard Business School, USP, Goldman Sachs,  Elo7 and Creditas, as well as several years of experience in the factoring market) and strong investors
-- You will be working on-site in a nice office, close to Faria Lima metro station
+- You will be working on-site close to Faria Lima metro station
 
 <p align="center">
-<i>Interested? Send us a message <b>jobs@rapidoo.com.br</b></i>
+<i>Interested? Questions? Send us a message <b>jobs@rapidoo.com.br</b></i>
 </p>
 
 <p align="center">
