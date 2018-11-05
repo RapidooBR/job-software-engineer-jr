@@ -18,7 +18,7 @@ We are a well-funded, early stage fintech startup looking for an entrepreneurial
 - You believe in lean development with short iterations and constant shipping, and will be able to help us create this culture for our development processes as well as our commercial operations.
 
 ***Our stack***
-- Language and framework web: Ruby on Rails
+- Language and web framework: Ruby / Ruby on Rails
 - Database: PostgreSql/Redis
 - Infra: Heroku
 - Version control: Github
